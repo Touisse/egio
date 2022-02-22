@@ -10,8 +10,6 @@ class database {
 		}*/
 	}
 
-/*databse check for connected*/
-//$obj= new database();
 
 public function insert($inserted)
 	{
